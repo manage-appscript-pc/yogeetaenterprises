@@ -1,6 +1,9 @@
 const express = require('express')
 const path = require("path");
+const compression = require('compression'); // Add this line
 const app = express()
+
+app.use(compression()); // Add this line
 
 // #############################################################################
 // Logs all request paths and method
