@@ -20,9 +20,9 @@
   "homepage": "yogeetaenterprises.com",
   "dependencies": {
     "express": "^5.1.0",
-    "compression": "^1.7.5"
+    "compression": "^1.8.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.10"
   }
 }
